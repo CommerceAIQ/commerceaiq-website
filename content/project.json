@@ -1,14 +1,14 @@
 {
-  "name": "CommerceIQ",
+  "name": "CommerceAIQ",
   "title": "AI-Powered E-Commerce Intelligence and Decision Support System",
   "university": "TED University",
   "course": "SENG 491 — Senior Project I",
   "term": "Fall 2026",
   "coordinator": "Dr. Özlem Albayrak",
-  "supervisor": "To be confirmed",
+  "supervisor": "Ali Berkol",
   "jury": [
-    "To be confirmed",
-    "To be confirmed"
+    "Eren Ulu",
+    "Mehmet Evren Coşkun"
   ],
   "team": [
     {
@@ -18,11 +18,11 @@
     },
     {
       "name": "Zülal Bal",
-      "department": "Software Engineering",
+      "department": "Computer Engineering",
       "role": "Project member"
     },
     {
-      "name": "Atabek Kaiybov",
+      "name": "Atabek Kaiypov",
       "department": "Software Engineering",
       "role": "Project member"
     },
