@@ -2,7 +2,7 @@
 
 **Project:** CommerceIQ — AI-Powered E-Commerce Intelligence and Decision Support System
 
-**Website:** Insert verified production URL after deployment.
+**Website:** https://commerceaiq-website.vercel.app
 
 **Proposed team:** Fatih Arslan, Zülal Bal, Atabek Kaiybov, Fatih Talha Arabacı. This four-person configuration requires approval because the syllabus specifies three students per team.
 
@@ -13,3 +13,4 @@ CommerceIQ is a proposed AI-powered e-commerce intelligence and decision support
 The project will investigate suitable demand forecasting approaches and compare them with simple baselines using time-aware evaluation. Forecast outputs will inform replenishment recommendations that consider inventory and lead-time assumptions, while profitability analysis will help explain the financial implications of product decisions. The engineering work will include requirements analysis, software architecture and data modeling, testing and validation, with documented attention to data privacy, professional responsibilities and practical constraints. The intended multidisciplinary connection is between software engineering and industrial engineering through inventory planning and operations optimization. All capabilities are planned; effectiveness will be assessed during development rather than assumed in advance.
 
 Before submission: confirm team configuration, secure supervisor and jury names, insert the live URL, and obtain team review. This draft has not been submitted or emailed.
+

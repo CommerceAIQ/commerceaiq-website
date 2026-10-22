@@ -24,3 +24,7 @@ Import the GitHub repository in Vercel with the Next.js preset, repository root 
 Syllabus pages 3–4 require a project website hosting reports. Proposal submission includes project name, website URL, names of members, supervisor and jury, and a 1–2 paragraph description. Schedule: 23 Oct proposal, 20 Nov specifications, 4 Dec analysis, 18 Dec multidisciplinary delivery. The High-Level Design date is inconsistent (Friday of week 14 vs 30 Dec); leave it unconfirmed. Presentations/demo date is TBD. Website publication does not replace email or LMS submissions.
 
 See `docs/proposal-draft.md` for a reviewable two-paragraph proposal and `docs/syllabus-review.md` for the detailed submission checklist.
+
+Live production: https://commerceaiq-website.vercel.app
+GitHub: https://github.com/CommerceAIQ/commerceaiq-website
+Native Vercel Git integration is connected to main. Repository is public with owner approval.
