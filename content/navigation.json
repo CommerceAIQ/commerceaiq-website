@@ -1,0 +1,28 @@
+{
+  "links": [
+    [
+      "Overview",
+      "overview"
+    ],
+    [
+      "Research",
+      "research"
+    ],
+    [
+      "Approach",
+      "approach"
+    ],
+    [
+      "Team",
+      "team"
+    ],
+    [
+      "Documents",
+      "documents"
+    ]
+  ],
+  "homeLabel": "CommerceIQ home",
+  "navigationLabel": "Main navigation",
+  "openMenu": "Open navigation",
+  "closeMenu": "Close navigation"
+}

@@ -1,0 +1,204 @@
+{
+  "common": {
+    "label": " / ",
+    "skip_to_content": "Skip to content"
+  },
+  "overview": {
+    "university": "TED UNIVERSITY",
+    "department": "SOFTWARE ENGINEERING",
+    "courseAndTerm": "SENG 491 / FALL 2026",
+    "status": " RESEARCH IN PROGRESS",
+    "eyebrow": "AN ACADEMIC EXPLORATION IN COMMERCE INTELLIGENCE",
+    "headlineLine1": "Intelligence for",
+    "headlineLine2": "better ",
+    "headlineEmphasis": "commerce.",
+    "summaryLine1": "Connecting demand, inventory and profitability.",
+    "summaryLine2": " A proposed decision support system for more informed e-commerce operations.",
+    "researchLink": "Explore the research ",
+    "bottomCaption": "FROM OPERATIONAL DATA TO INFORMED DECISIONS",
+    "documentsLink": "PROJECT DOCUMENTATION ",
+    "scrollLabel": "SCROLL TO EXPLORE "
+  },
+  "problem": {
+    "challenges": [
+      [
+        "Uncertain demand",
+        "Changing sales patterns make it difficult to anticipate how much stock will be needed."
+      ],
+      [
+        "Inventory imbalance",
+        "Stockouts miss opportunities. Excess inventory ties up resources and increases holding costs."
+      ],
+      [
+        "Fragmented operational data",
+        "Disconnected records make a consistent view of business performance difficult to maintain."
+      ],
+      [
+        "Profitability uncertainty",
+        "Revenue alone does not explain the contribution of each product after relevant costs."
+      ]
+    ],
+    "label": "THE PROBLEM",
+    "headlineLine1": "Commerce generates data.",
+    "headlineLine2": "Decisions require ",
+    "headlineEmphasis": "understanding.",
+    "intro": "For small and medium-sized sellers, more data does not always mean a clearer next step.",
+    "description": "Sales, stock levels and costs often live in separate files. Understanding what to order, when to replenish and which products create value requires connecting those signals."
+  },
+  "system": {
+    "stages": [
+      [
+        "Data input",
+        "Sales, inventory and cost records."
+      ],
+      [
+        "Data analysis",
+        "Validate, structure and explore patterns."
+      ],
+      [
+        "Demand forecasting",
+        "Estimate future product-level demand."
+      ],
+      [
+        "Recommendations",
+        "Consider stock needs and margins."
+      ],
+      [
+        "Decision support",
+        "Explain options for seller review."
+      ]
+    ],
+    "label": "THE PROPOSED SYSTEM",
+    "headlineLine1": "A clearer path from",
+    "headlineEmphasis": "data to decision.",
+    "description": "CommerceIQ aims to connect predictive analysis with practical inventory and profitability decisions in a single, understandable workflow.",
+    "noteLabel": "PROPOSED WORKFLOW ",
+    "note": "Human judgment remains central to every operational decision."
+  },
+  "research": {
+    "label": "RESEARCH OBJECTIVES",
+    "headlineLine1": "Questions first.",
+    "headlineEmphasis": "Evidence next.",
+    "description": "We are investigating how predictive methods can support everyday commerce decisions, with clear baselines and measurable evaluation.",
+    "phase": "Current phase: proposal & research planning"
+  },
+  "capabilities": {
+    "index": "INDEX",
+    "planned_capability": "PLANNED CAPABILITY",
+    "intended_purpose": "INTENDED PURPOSE",
+    "signal": "SIGNAL",
+    "label": "SYSTEM CAPABILITIES",
+    "headlineLine1": "Designed around",
+    "headlineEmphasis": "the decisions that matter.",
+    "summaryLine1": "Six planned capabilities.",
+    "summaryLine2": "One connected analytical perspective.",
+    "visualNote": "Visual signals are schematic illustrations, not measured performance."
+  },
+  "approach": {
+    "methods": [
+      [
+        "01 / DEFINE",
+        "Requirements & analysis",
+        "Identify seller workflows, functional needs, data limitations and project constraints."
+      ],
+      [
+        "02 / DESIGN",
+        "Architecture & data modeling",
+        "Define system boundaries, modules, data structures and an understandable analytical interface."
+      ],
+      [
+        "03 / INVESTIGATE",
+        "Models & evaluation",
+        "Compare forecasting methods using chronological splits and suitable error metrics; examine replenishment and margin assumptions."
+      ],
+      [
+        "04 / VERIFY",
+        "Testing & validation",
+        "Plan data validation, software tests and usability evaluation. Document uncertainty and limitations."
+      ]
+    ],
+    "label": "ENGINEERING APPROACH",
+    "headlineLine1": "Predictive thinking.",
+    "headlineEmphasis": "Engineering discipline.",
+    "intro": "The intended contribution is the connection: forecasting demand, planning inventory and considering profitability together.",
+    "description": "We will investigate a practical integration of these methods rather than assume that a more complex model produces a better decision.",
+    "disciplineLabel": "A MULTIDISCIPLINARY PERSPECTIVE",
+    "disciplineDescription": "Software engineering meets industrial engineering through inventory planning, replenishment policies and operations optimization.",
+    "ethicsLabel": "RESPONSIBLE BY DESIGN",
+    "ethicsDescription": "Data privacy, explainable recommendations and honest evaluation will guide the proposed system. Forecasts support decisions; they do not guarantee outcomes."
+  },
+  "team": {
+    "no": "NO.",
+    "name": "NAME",
+    "department": "DEPARTMENT",
+    "role": "ROLE",
+    "label": "PROJECT TEAM",
+    "headlineLine1": "A shared inquiry.",
+    "headlineEmphasis": "A collaborative effort.",
+    "summary": "Proposed project group",
+    "university": "TED University",
+    "configurationLabel": "TEAM CONFIGURATION",
+    "supervisorLabel": "PROJECT SUPERVISOR",
+    "juryLabel": "JURY MEMBER 0",
+    "coordinatorLabel": "COURSE COORDINATOR"
+  },
+  "documents": {
+    "ref": "REF.",
+    "document": "DOCUMENT",
+    "due_date": "DUE DATE",
+    "status": "STATUS",
+    "access": "ACCESS",
+    "download": "Download ",
+    "not_published": "Not published",
+    "publication_policy": "PUBLICATION POLICY",
+    "label": "PROJECT DOCUMENTATION",
+    "headlineLine1": "The work,",
+    "headlineEmphasis": "on the record.",
+    "description": "An evolving archive of research and engineering deliverables. Reports will be available here as they are published.",
+    "publicationNote": "Only published, available files are linked. No draft or placeholder reports are presented as final submissions.",
+    "awaitingFile": "Awaiting file",
+    "statusLabels": {
+      "Upcoming": "Upcoming",
+      "In Progress": "In Progress",
+      "Published": "Published"
+    }
+  },
+  "timeline": {
+    "label": "PROJECT TIMELINE",
+    "headlineLine1": "A semester of",
+    "headlineEmphasis": "structured progress.",
+    "description": "From a clearly defined problem to a defensible system design. Milestones follow the SENG 491 course schedule.",
+    "progressNote": "Progress is recorded manually. Dates do not imply completion.",
+    "scheduleNote": "High-Level Design deadline awaits coordinator confirmation: the syllabus narrative specifies Friday of week 14, while the schedule lists 30 December 2026."
+  },
+  "footer": {
+    "back_to_top": "BACK TO TOP ",
+    "ted_university_software_engineering": "TED University · Software Engineering",
+    "label": " / ",
+    "an_academic_capstone_project_developed": "An academic capstone project developed",
+    "for_educational_and_research_purposes": "for educational and research purposes.",
+    "proposed_system": "PROPOSED SYSTEM",
+    "research_in_progress": "RESEARCH IN PROGRESS"
+  },
+  "chart": {
+    "demand_units": "DEMAND / UNITS",
+    "illustrative_model": "Illustrative model",
+    "forecast": "FORECAST",
+    "historical_demand": "Historical demand",
+    "proposed_forecast": "Proposed forecast",
+    "fig_01_illustrative_demand_forecast": "FIG. 01 — ILLUSTRATIVE DEMAND FORECAST",
+    "accessibleTitle": "Historical demand and illustrative forecast",
+    "accessibleDescription": "Synthetic monthly product demand from January to September. Historical demand rises with fluctuations; an example forecast continues upward from July. The shaded area illustrates uncertainty, not a measured confidence interval.",
+    "disclaimer": "Synthetic example data. An illustration of the intended analytical approach, not project results."
+  },
+  "navigation": {
+    "tedu_seng_491": "TEDU / SENG 491 "
+  },
+  "social": {
+    "commerceiq": "CommerceIQ ",
+    "research_in_progress": " / Research in progress",
+    "intelligence_for": "Intelligence for",
+    "better_commerce": "better commerce.",
+    "ted_university_software_engineering_seng_491": "TED UNIVERSITY / SOFTWARE ENGINEERING / SENG 491 / FALL 2026"
+  }
+}

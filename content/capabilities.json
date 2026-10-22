@@ -1,0 +1,32 @@
+[
+  [
+    "Demand forecasting",
+    "Estimate future product demand from historical sales patterns.",
+    "forecast"
+  ],
+  [
+    "Inventory planning",
+    "Identify potential shortages and recommend replenishment actions.",
+    "inventory"
+  ],
+  [
+    "Profitability analysis",
+    "Bring revenue, costs and product-level margins into one view.",
+    "margin"
+  ],
+  [
+    "Analytics dashboard",
+    "Present historical trends, forecasts and recommendations clearly.",
+    "dashboard"
+  ],
+  [
+    "Structured data import",
+    "Import and validate sales, inventory and cost information.",
+    "import"
+  ],
+  [
+    "Decision support",
+    "Translate analytical outputs into explainable operational recommendations.",
+    "decision"
+  ]
+]

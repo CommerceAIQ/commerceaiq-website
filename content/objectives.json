@@ -1,0 +1,26 @@
+[
+  [
+    "Understand the data",
+    "Analyze historical sales, inventory and cost data, including missing records, outliers and product-level patterns."
+  ],
+  [
+    "Investigate forecasting",
+    "Compare suitable demand forecasting approaches against simple baselines using time-aware evaluation."
+  ],
+  [
+    "Connect forecasts to stock",
+    "Develop replenishment recommendations that consider expected demand, available stock and lead times."
+  ],
+  [
+    "Bring margins into the picture",
+    "Incorporate product costs and profitability into operational decision support."
+  ],
+  [
+    "Make analysis usable",
+    "Design an analytical dashboard that explains trends, uncertainty and recommended actions."
+  ],
+  [
+    "Evaluate with evidence",
+    "Assess forecast error, inventory outcomes and usability with appropriate metrics and documented limitations."
+  ]
+]

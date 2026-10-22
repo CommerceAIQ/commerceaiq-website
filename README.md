@@ -8,8 +8,8 @@ Node.js 20.9+ is required. Use `npm ci`, `npm run dev`. Verify with `npm run lin
 
 ## Content maintenance
 
-- `src/data/project.ts`: team, supervisor, jury and research content.
-- `src/data/documents.ts`: deliverables, dates and manually maintained statuses.
+- `content/project.json`: team, supervisor, jury and project identity.
+- `content/documents.json`: deliverables, dates and manually maintained statuses.
 - Put actual approved PDF reports in `public/documents/`, set `file` to `/documents/report.pdf` and status to `Published`. The archive only links published files that exist at build time. Commit and push to rebuild.
 - Four proposed members are shown with an explicit approval note. Syllabus requires three students.
 - Confirm High-Level Design deadline with coordinator before changing its date.
@@ -28,3 +28,8 @@ See `docs/proposal-draft.md` for a reviewable two-paragraph proposal and `docs/s
 Live production: https://commerceaiq-website.vercel.app
 GitHub: https://github.com/CommerceAIQ/commerceaiq-website
 Native Vercel Git integration is connected to main. Repository is public with owner approval.
+
+## Editing website content
+
+All editable copy and project data live in the root content/ directory as JSON. Read content/README.md for the Turkish editing guide, report publication examples and GitHub-to-Vercel workflow. No TSX changes are needed for text, team, documents, dates or menu labels. Run npm run validate:content before publishing. Changes become live after committing and pushing to main and a successful Vercel build.
+
