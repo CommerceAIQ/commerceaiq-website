@@ -4,7 +4,7 @@
 
 **Website:** https://commerceaiq-website.vercel.app
 
-**Proposed team:** Fatih Arslan, Zülal Bal, Atabek Kaiybov, Fatih Talha Arabacı. This four-person configuration requires approval because the syllabus specifies three students per team.
+**Proposed team:** Atabek Kaiypov, Fatih Arslan, Fatih Talha Arabacı, Zülal Bal. This four-person configuration requires approval because the syllabus specifies three students per team.
 
 **Supervisor:** To be confirmed. **Jury members:** To be confirmed.
 

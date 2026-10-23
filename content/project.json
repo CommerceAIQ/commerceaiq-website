@@ -12,23 +12,23 @@
   ],
   "team": [
     {
-      "name": "Fatih Arslan",
+      "name": "Atabek Kaiypov",
       "department": "Software Engineering",
       "role": "Project member"
     },
     {
-      "name": "Zülal Bal",
-      "department": "Computer Engineering",
-      "role": "Project member"
-    },
-    {
-      "name": "Atabek Kaiypov",
+      "name": "Fatih Arslan",
       "department": "Software Engineering",
       "role": "Project member"
     },
     {
       "name": "Fatih Talha Arabacı",
       "department": "Software Engineering",
+      "role": "Project member"
+    },
+    {
+      "name": "Zülal Bal",
+      "department": "Computer Engineering",
       "role": "Project member"
     }
   ],
