@@ -5,8 +5,8 @@
   },
   "overview": {
     "university": "TED UNIVERSITY",
-    "department": "SOFTWARE ENGINEERING",
-    "courseAndTerm": "SENG 491 / FALL 2026",
+    "department": "SOFTWARE ENGINEERING & COMPUTER ENGINEERING",
+    "courseAndTerm": "SENG 491 / CMPE 491 / FALL 2026",
     "status": " RESEARCH IN PROGRESS",
     "eyebrow": "AN ACADEMIC EXPLORATION IN COMMERCE INTELLIGENCE",
     "headlineLine1": "Intelligence for",
@@ -140,7 +140,7 @@
     "configurationLabel": "TEAM CONFIGURATION",
     "supervisorLabel": "PROJECT SUPERVISOR",
     "juryLabel": "JURY MEMBER 0",
-    "coordinatorLabel": "COURSE COORDINATOR"
+    "coordinatorLabel": "COURSE COORDINATORS"
   },
   "documents": {
     "ref": "REF.",
@@ -167,13 +167,13 @@
     "label": "PROJECT TIMELINE",
     "headlineLine1": "A semester of",
     "headlineEmphasis": "structured progress.",
-    "description": "From a clearly defined problem to a defensible system design. Milestones follow the SENG 491 course schedule.",
+    "description": "From a clearly defined problem to a defensible system design. Milestones follow the SENG 491 course schedule for this SENG 491 / CMPE 491 project.",
     "progressNote": "Progress is recorded manually. Dates do not imply completion.",
     "scheduleNote": "High-Level Design deadline awaits coordinator confirmation: the syllabus narrative specifies Friday of week 14, while the schedule lists 30 December 2026."
   },
   "footer": {
     "back_to_top": "BACK TO TOP ",
-    "ted_university_software_engineering": "TED University · Software Engineering",
+    "ted_university_software_engineering": "TED University · Software Engineering & Computer Engineering",
     "label": " / ",
     "an_academic_capstone_project_developed": "An academic capstone project developed",
     "for_educational_and_research_purposes": "for educational and research purposes.",
@@ -192,13 +192,13 @@
     "disclaimer": "Synthetic example data. An illustration of the intended analytical approach, not project results."
   },
   "navigation": {
-    "tedu_seng_491": "TEDU / SENG 491 "
+    "tedu_seng_491": "TEDU / SENG 491 / CMPE 491 "
   },
   "social": {
     "commerceiq": "CommerceIQ ",
     "research_in_progress": " / Research in progress",
     "intelligence_for": "Intelligence for",
     "better_commerce": "better commerce.",
-    "ted_university_software_engineering_seng_491": "TED UNIVERSITY / SOFTWARE ENGINEERING / SENG 491 / FALL 2026"
+    "ted_university_software_engineering_seng_491": "TED UNIVERSITY / SOFTWARE ENGINEERING & COMPUTER ENGINEERING / SENG 491 & CMPE 491 / FALL 2026"
   }
 }

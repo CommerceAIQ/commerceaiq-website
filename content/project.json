@@ -2,9 +2,9 @@
   "name": "CommerceAIQ",
   "title": "AI-Powered E-Commerce Intelligence and Decision Support System",
   "university": "TED University",
-  "course": "SENG 491 — Senior Project I",
+  "course": "SENG 491 / CMPE 491 — Senior Project I",
   "term": "Fall 2026",
-  "coordinator": "Dr. Özlem Albayrak",
+  "coordinator": "Dr. Özlem Albayrak / Gökçe Nur Yılmaz",
   "supervisor": "Ali Berkol",
   "jury": [
     "Eren Ulu",
@@ -37,5 +37,5 @@
     "prefix": "Commerce",
     "accent": "IQ"
   },
-  "department": "Software Engineering"
+  "department": "Software Engineering & Computer Engineering"
 }
