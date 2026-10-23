@@ -1,4 +1,4 @@
-# CommerceIQ academic project website
+# CommerceAIQ academic project website
 
 Next.js App Router, TypeScript, Tailwind CSS, Lucide and custom SVG. Public project presentation, not the proposed analytics application.
 

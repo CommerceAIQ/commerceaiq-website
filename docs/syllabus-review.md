@@ -26,7 +26,7 @@ Teams must contain three students. The proposed group has four; obtain explicit 
 | Presentation/demo/site and questioning | 20% | Final/15th week or TBD in schedule; 25-minute recorded presentation with every member participating; initial product demo, video, poster |
 | Peer evaluation | 5% | End of semester |
 
-No completed status should be inferred from a date. Late submissions are not accepted. Public publication does not replace LMS or email submission. The multidisciplinary connection proposed for CommerceIQ is software engineering + industrial engineering; it still needs substantive evidence in project deliverables.
+No completed status should be inferred from a date. Late submissions are not accepted. Public publication does not replace LMS or email submission. The multidisciplinary connection proposed for CommerceAIQ is software engineering + industrial engineering; it still needs substantive evidence in project deliverables.
 
 ## Immediate proposal checklist
 
