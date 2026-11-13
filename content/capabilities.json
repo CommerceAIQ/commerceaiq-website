@@ -28,5 +28,10 @@
     "Decision support",
     "Translate analytical outputs into explainable operational recommendations.",
     "decision"
+  ],
+  [
+    "Data-grounded commerce assistant",
+    "A planned read-only chatbot for questions about authorized sales, inventory, costs, profitability, forecasts and replenishment. Answers will use validated analytical results and cite their dataset, period and calculation sources. It will ask for clarification when needed, decline unsupported or unrelated questions, and use no external web sources.",
+    "assistant"
   ]
 ]
